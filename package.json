@@ -1,0 +1,19 @@
+{
+  "name": "ethanharsh-website-v4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EthanHarsh/ethanharsh-website-v4.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EthanHarsh/ethanharsh-website-v4/issues"
+  },
+  "homepage": "https://github.com/EthanHarsh/ethanharsh-website-v4#readme"
+}
