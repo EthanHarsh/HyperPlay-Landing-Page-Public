@@ -21,9 +21,9 @@ function Meta(props) {
     // Page title
     title: "HyperPlay",
     // Page description
-    description: "My app description",
+    description: "HyperPlay is dedicated to making the best games possible for everyone.",
     // Social share image (create this file in /public/images/)
-    image: "https://storage.googleapis.com/hyperplay-front-assets/hero-metaverse.svg",
+    image: "/hero-metaverse.svg",
     // Page type (see https://ogp.me/#types)
     type: "website",
   };
