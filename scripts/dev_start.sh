@@ -1,2 +1,2 @@
 cd client
-npm run serve
+npm run start
