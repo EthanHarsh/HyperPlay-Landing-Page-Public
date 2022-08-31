@@ -13,7 +13,7 @@ A landing page built using REACT.js.
 ## Quick Start
 ### Using Docker
 ```
-sudo docker build . -t hyperplay-landing
+docker build . -t hyperplay-landing
 ```
 
 ### Using NPM - Production Start

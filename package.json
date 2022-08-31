@@ -4,7 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node server/app.js"
+    "start": "node server/app.js",
+    "devSetup": "bash scripts/dev_setup.sh",
+    "devStart": "bash scripts/dev_start.sh"
   },
   "repository": {
     "type": "git",
